@@ -11,7 +11,8 @@
 
 
 4. Diriger vous dans ce fichier pour voir le nom et le mot de passe
-<img width="1110" height="376" alt="image" src="https://github.com/user-attachments/assets/91f37db1-548a-4632-9b04-2d6845aa1937" />
+<img width="1157" height="427" alt="image" src="https://github.com/user-attachments/assets/d1a69a13-450a-4b0e-b9cf-21448205f8b3" />
+
 5. Pour ouvrir le mot de passe on va devoir aller sur le site de crack station. On peut voir que le mot de passe est "tristan" (https://crackstation.net/)
 <img width="1147" height="454" alt="image" src="https://github.com/user-attachments/assets/4c933e66-c460-44bf-9489-4495de3557d9" />
 
