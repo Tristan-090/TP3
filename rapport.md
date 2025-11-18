@@ -14,7 +14,8 @@
 <img width="1157" height="427" alt="image" src="https://github.com/user-attachments/assets/d1a69a13-450a-4b0e-b9cf-21448205f8b3" />
 
 5. Pour ouvrir le mot de passe on va devoir aller sur le site de crack station. On peut voir que le mot de passe est "tristan" (https://crackstation.net/)
-<img width="1147" height="454" alt="image" src="https://github.com/user-attachments/assets/4c933e66-c460-44bf-9489-4495de3557d9" />
+<img width="1115" height="622" alt="image" src="https://github.com/user-attachments/assets/ae863909-cd2c-4feb-aac8-c9fc3bb21b51" />
+
 
 ### Correctif implanté
 
