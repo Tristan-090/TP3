@@ -7,6 +7,7 @@
 
 2. Ouvrir l'application DataGrip et afficher le contenu du fichier de la base de donnée
 <img width="723" height="670" alt="image" src="https://github.com/user-attachments/assets/11de2946-1885-4076-a818-479cc69815b5" />
+<img width="974" height="543" alt="image" src="https://github.com/user-attachments/assets/ed533bd5-0dd7-4379-b6e6-c1f951d69041" />
 
 4. etc.
 
