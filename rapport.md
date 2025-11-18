@@ -2,9 +2,13 @@
 
 ## Attaque 1: BD fuitée et mot de passe
 
-1. Etape 1 + copie d'écran
-2. Etape 2 + copie d'écran
-3. etc.
+1. Retrouver la base de donnée
+<img width="900" height="316" alt="image" src="https://github.com/user-attachments/assets/ddc7174e-d8b3-4100-9a5b-258e3bcaa1a6" />
+
+2. Ouvrir l'application DataGrip et afficher le contenu du fichier de la base de donnée
+<img width="723" height="670" alt="image" src="https://github.com/user-attachments/assets/11de2946-1885-4076-a818-479cc69815b5" />
+
+4. etc.
 
 ### Correctif implanté
 
