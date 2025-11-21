@@ -41,7 +41,12 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 6. Nous allons ouvrir la base de donnée avec Datagrip
 <img width="1285" height="691" alt="image" src="https://github.com/user-attachments/assets/6ae07723-89d4-43a3-9415-13a3c29a7d9e" />
 
-7. Nous allons voir que
+7. Nous allons voir que maintenant les mots de passe sont hasher avec Bcrypt. (On peut voir les ancien mot de passe avec MD5 qui n'était pas très bon)
+<img width="1520" height="562" alt="image" src="https://github.com/user-attachments/assets/397102cf-ed23-4a03-993a-b81d1ab9b094" />
+
+8. Nous allons maintenant faire le test avec crackstation comme on peut voir le premier mot de passe était hasher avec md5 et le second avec bcrypt
+<img width="1123" height="485" alt="image" src="https://github.com/user-attachments/assets/fe6f36f9-5de2-4c70-be44-c3cbc087ed45" />
+
 ## Attaque 2: BD fuitée et encryption
 
 1. Etape 1 + copie d'écran
