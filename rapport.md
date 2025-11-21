@@ -32,12 +32,16 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 3. Diriger vous dans cette section
 <img width="431" height="528" alt="image" src="https://github.com/user-attachments/assets/8156abf3-bd49-4d40-88d9-4e5150f7b6e0" />
 
-4.Effectuer c'est modification dans le code pour pouvoir hasher le mot de passe avec bcrypt
+4. Effectuer c'est modification dans le code pour pouvoir hasher le mot de passe avec bcrypt
 <img width="1265" height="415" alt="image" src="https://github.com/user-attachments/assets/1001284c-ba86-4c09-acec-fa3c1349b1a1" />
 
-5.Après avoir effectuer c'est modification démarrer la console, lister tous les premier ministre et afficher la base de donnée (cyber.db) 
+5. Après avoir effectuer c'est modification démarrer la console, lister tous les premier ministre et afficher la base de donnée (cyber.db) 
+<img width="1144" height="416" alt="image" src="https://github.com/user-attachments/assets/22e7fd36-5498-48fb-a00e-c98dc6264bd3" />
 
+6. Nous allons ouvrir la base de donnée avec Datagrip
+<img width="1285" height="691" alt="image" src="https://github.com/user-attachments/assets/6ae07723-89d4-43a3-9415-13a3c29a7d9e" />
 
+7. Nous allons voir que
 ## Attaque 2: BD fuitée et encryption
 
 1. Etape 1 + copie d'écran
