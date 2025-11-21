@@ -22,6 +22,16 @@
 Description du correctif.
 
 Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
+1. Aller dans le source code avec Viusal studio code
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9aeb8327-9a90-4227-a101-01c859429cce" />
+
+2. Vous allez devoir installer des packets qui se nomme bcrypt.net
+<img width="1488" height="661" alt="image" src="https://github.com/user-attachments/assets/6077825b-d8ae-4cdb-a0fa-25f3d3e848b9" />
+<img width="1585" height="601" alt="image" src="https://github.com/user-attachments/assets/292804cd-504f-455c-907f-d0062c38644b" />
+
+3. Diriger vous dans cette section
+<img width="431" height="528" alt="image" src="https://github.com/user-attachments/assets/8156abf3-bd49-4d40-88d9-4e5150f7b6e0" />
+
 
 
 ## Attaque 2: BD fuitée et encryption
