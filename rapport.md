@@ -32,6 +32,10 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 3. Diriger vous dans cette section
 <img width="431" height="528" alt="image" src="https://github.com/user-attachments/assets/8156abf3-bd49-4d40-88d9-4e5150f7b6e0" />
 
+4.Effectuer c'est modification dans le code pour pouvoir hasher le mot de passe avec bcrypt
+<img width="1265" height="415" alt="image" src="https://github.com/user-attachments/assets/1001284c-ba86-4c09-acec-fa3c1349b1a1" />
+
+5.Après avoir effectuer c'est modification démarrer la console, lister tous les premier ministre et afficher la base de donnée (cyber.db) 
 
 
 ## Attaque 2: BD fuitée et encryption
