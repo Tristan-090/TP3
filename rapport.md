@@ -22,7 +22,30 @@
 Description du correctif.
 
 Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
+1. Aller dans le source code avec Viusal studio code
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9aeb8327-9a90-4227-a101-01c859429cce" />
 
+2. Vous allez devoir installer des packets qui se nomme bcrypt.net
+<img width="1488" height="661" alt="image" src="https://github.com/user-attachments/assets/6077825b-d8ae-4cdb-a0fa-25f3d3e848b9" />
+<img width="1585" height="601" alt="image" src="https://github.com/user-attachments/assets/292804cd-504f-455c-907f-d0062c38644b" />
+
+3. Diriger vous dans cette section
+<img width="431" height="528" alt="image" src="https://github.com/user-attachments/assets/8156abf3-bd49-4d40-88d9-4e5150f7b6e0" />
+
+4. Effectuer c'est modification dans le code pour pouvoir hasher le mot de passe avec bcrypt
+<img width="1265" height="415" alt="image" src="https://github.com/user-attachments/assets/1001284c-ba86-4c09-acec-fa3c1349b1a1" />
+
+5. Après avoir effectuer c'est modification démarrer la console, lister tous les premier ministre et afficher la base de donnée (cyber.db) 
+<img width="1144" height="416" alt="image" src="https://github.com/user-attachments/assets/22e7fd36-5498-48fb-a00e-c98dc6264bd3" />
+
+6. Nous allons ouvrir la base de donnée avec Datagrip
+<img width="1285" height="691" alt="image" src="https://github.com/user-attachments/assets/6ae07723-89d4-43a3-9415-13a3c29a7d9e" />
+
+7. Nous allons voir que maintenant les mots de passe sont hasher avec Bcrypt. (On peut voir les ancien mot de passe avec MD5 qui n'était pas très bon)
+<img width="1520" height="562" alt="image" src="https://github.com/user-attachments/assets/397102cf-ed23-4a03-993a-b81d1ab9b094" />
+
+8. Nous allons maintenant faire le test avec crackstation comme on peut voir le premier mot de passe était hasher avec md5 et le second avec bcrypt
+<img width="1123" height="485" alt="image" src="https://github.com/user-attachments/assets/fe6f36f9-5de2-4c70-be44-c3cbc087ed45" />
 
 ## Attaque 2: BD fuitée et encryption
 
