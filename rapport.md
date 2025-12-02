@@ -49,7 +49,7 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 
 ## Attaque 2: BD fuitée et encryption
 
-1. Etape 1 + copie d'écran
+1. Etape 1 + copie 
 2. Etape 2 + copie d'écran
 3. etc.
 
@@ -68,5 +68,6 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 ### Correctif implanté
 
 Description du correctif.
+<img width="910" height="503" alt="image" src="https://github.com/user-attachments/assets/8149f108-bc05-483f-8dbf-28a224f1b121" />
 
 Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
