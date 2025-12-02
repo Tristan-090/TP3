@@ -49,9 +49,11 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 
 ## Attaque 2: BD fuitée et encryption
 
-1. Etape 1 + copie 
-2. Etape 2 + copie d'écran
-3. etc.
+1. comme on peut voir le NAS semble avoir un algorithme plustot facile (Tenter de crée un nouveau compte avec un NAS 123456789 et vous allez voir que tous les nas se ressembler (bdfhjlnpr))
+<img width="103" height="172" alt="image" src="https://github.com/user-attachments/assets/091775b4-9e0d-474b-a494-8aa51b27c674" />
+
+3. Etape 2 + copie d'écran
+4. etc.
 
 ### Correctif implanté
 
