@@ -68,6 +68,11 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 ### Correctif implanté
 
 Description du correctif.
-<img width="910" height="503" alt="image" src="https://github.com/user-attachments/assets/8149f108-bc05-483f-8dbf-28a224f1b121" />
+
+Chiffrement
+<img width="955" height="510" alt="image" src="https://github.com/user-attachments/assets/16dbec3f-88b2-4525-8a80-85d49a60f42f" />
+Déchiffrement
+<img width="826" height="403" alt="image" src="https://github.com/user-attachments/assets/fdcce40b-c69c-43d5-821d-0e36732e4fa1" />
+
 
 Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
