@@ -77,12 +77,7 @@ Déchiffrement
 
 Description du correctif.
 
-Chiffrement
-<img width="955" height="510" alt="image" src="https://github.com/user-attachments/assets/16dbec3f-88b2-4525-8a80-85d49a60f42f" />
-Déchiffrement
-<img width="826" height="403" alt="image" src="https://github.com/user-attachments/assets/fdcce40b-c69c-43d5-821d-0e36732e4fa1" />
 
-<img width="1390" height="752" alt="image" src="https://github.com/user-attachments/assets/67f421de-02ae-49de-8584-65acf3fab966" />
 
 
 Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
