@@ -117,13 +117,13 @@ Description du correctif.
 
 ##### 5. Nous allons maintenant tester que l'attaque ne fonctionne plus
 
-###### Voici la base de donnée MUtilisateur :
+##### Voici la base de donnée MUtilisateur :
 <img width="1465" height="381" alt="image" src="https://github.com/user-attachments/assets/21b0a845-0f89-448b-adc3-9dc23870178b" />
 
-###### Nous allons effectuer cette command nom = "'; DROP TABLE MUtilisateur; --" lors de la connexion et de la création de compte:
+##### Nous allons effectuer cette command nom = "'; DROP TABLE MUtilisateur; --" lors de la connexion et de la création de compte:
 <img width="772" height="537" alt="image" src="https://github.com/user-attachments/assets/62259bea-5f7d-495e-860a-a7baad6b8e01" />
 
-###### Comme on peut voir après avoir faite cette command la base de donnée ne c'est pas supprimé
+##### Comme on peut voir après avoir faite cette command la base de donnée ne c'est pas supprimé
 <img width="1456" height="430" alt="image" src="https://github.com/user-attachments/assets/159146f8-f8c3-42b2-b320-d0add298eb10" />
 
 
