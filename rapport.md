@@ -54,6 +54,9 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 
 <img width="727" height="180" alt="image" src="https://github.com/user-attachments/assets/787667f4-f945-4aa5-9410-0d9ed881f597" />
 
+<img width="727" height="180" alt="image" src="https://github.com/user-attachments/assets/8ee92999-daa7-4b21-862f-c6d3df3b0ee8" />
+
+
 ### Correctif implanté
 
 Court descriptif du correctif et lien vers le(s) commit(s).
