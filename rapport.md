@@ -19,7 +19,6 @@
 
 ### Correctif implanté
 
-Description du correctif.
 
 Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 ##### 1. Aller dans le source code avec Viusal studio code
@@ -57,12 +56,11 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 
 ### Correctif implanté
 
-Court descriptif du correctif et lien vers le(s) commit(s).
 
-#### Chiffrement
+##### Chiffrement
 <img width="955" height="510" alt="image" src="https://github.com/user-attachments/assets/16dbec3f-88b2-4525-8a80-85d49a60f42f" />
 
-#### Déchiffrement
+##### Déchiffrement
 <img width="826" height="403" alt="image" src="https://github.com/user-attachments/assets/fdcce40b-c69c-43d5-821d-0e36732e4fa1" />
 
 <img width="1390" height="752" alt="image" src="https://github.com/user-attachments/assets/67f421de-02ae-49de-8584-65acf3fab966" />
@@ -93,41 +91,38 @@ Description du correctif.
 
 ##### 2. Vous allez ensuite vous diriger vers la première fonction qui se nomme BDUtilisateurParSonNom
 
-Voici la fonction présentement BDUtilisateurParSonNom :
+###### Voici la fonction présentement BDUtilisateurParSonNom :
 <img width="932" height="352" alt="Avant" src="https://github.com/user-attachments/assets/f80fc2b9-fe7c-4f1c-af09-ab275c649d29" />
 
-Vous allez devoir modifier cette fonction pour cela:
+###### Vous allez devoir modifier cette fonction pour cela:
 <img width="733" height="361" alt="Après" src="https://github.com/user-attachments/assets/d3147fd7-7cae-4656-8dcd-f78ffc4303da" />
 
 ##### 3. Vous allez devoir vous diriger maintenant vers la fonction qui se nomme BDRevenusPour
 
-Voici la fonction présentement BDRevenusPour :
+###### Voici la fonction présentement BDRevenusPour :
 <img width="911" height="344" alt="Avant" src="https://github.com/user-attachments/assets/17ec6d8d-0ddf-4556-802e-2f0464471483" />
 
-Vous allez devoir modifier cette fonction pour cela:
+###### Vous allez devoir modifier cette fonction pour cela:
 <img width="749" height="348" alt="Après" src="https://github.com/user-attachments/assets/f13549db-272d-4e80-a1b1-31d3862a5d3b" />
 
 
 ##### 4. Vous allez ensuite vous diriger vers la première fonction qui se nomme BDCreerUtilisateur
 
-Voici la fonction présentement BDCreerUtilisateur :
+###### Voici la fonction présentement BDCreerUtilisateur :
 <img width="776" height="211" alt="Avant" src="https://github.com/user-attachments/assets/54cea5f3-0557-40ae-8c46-a98dd5d707c3" />
 
-Vous allez devoir modifier cette fonction pour cela:
+###### Vous allez devoir modifier cette fonction pour cela:
 <img width="940" height="223" alt="Après" src="https://github.com/user-attachments/assets/b2362b59-78f7-4aba-a481-d5d63a7f84c0" />
 
 ##### 5. Nous allons maintenant tester que l'attaque ne fonctionne plus
 
-Voici la base de donnée MUtilisateur :
+###### Voici la base de donnée MUtilisateur :
 <img width="1465" height="381" alt="image" src="https://github.com/user-attachments/assets/21b0a845-0f89-448b-adc3-9dc23870178b" />
 
-Nous allons effectuer cette command nom = "'; DROP TABLE MUtilisateur; --" lors de la connexion et de la création de compte:
+###### Nous allons effectuer cette command nom = "'; DROP TABLE MUtilisateur; --" lors de la connexion et de la création de compte:
 <img width="772" height="537" alt="image" src="https://github.com/user-attachments/assets/62259bea-5f7d-495e-860a-a7baad6b8e01" />
 
 Comme on peut voir après avoir faite cette command la base de donnée ne c'est pas supprimé
 <img width="1456" height="430" alt="image" src="https://github.com/user-attachments/assets/159146f8-f8c3-42b2-b320-d0add298eb10" />
 
 
-
-
-Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
