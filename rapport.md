@@ -2,7 +2,7 @@
 
 ## Attaque 1: BD fuitée et mot de passe
 
-1. Retrouver la base de donnée
+##### 1. Retrouver la base de donnée
 <img width="900" height="316" alt="image" src="https://github.com/user-attachments/assets/ddc7174e-d8b3-4100-9a5b-258e3bcaa1a6" />
 
 2. Ouvrir l'application DataGrip et afficher le contenu du fichier de la base de donnée
