@@ -63,6 +63,7 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 ##### Déchiffrement
 <img width="826" height="403" alt="image" src="https://github.com/user-attachments/assets/fdcce40b-c69c-43d5-821d-0e36732e4fa1" />
 
+##### Résultat
 <img width="1390" height="752" alt="image" src="https://github.com/user-attachments/assets/67f421de-02ae-49de-8584-65acf3fab966" />
 
 ## Attaque 3 Injection SQL
