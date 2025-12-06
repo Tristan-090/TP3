@@ -90,8 +90,16 @@ Déchiffrement
 ### Correctif implanté
 
 Description du correctif.
+1. Pour le correctif on va devoir modifier 3 fonction de code pour la première vous allez dans DonneesAcces.cs
+<img width="416" height="396" alt="image" src="https://github.com/user-attachments/assets/0fa534f7-71e8-4b6d-8c3a-ac313865a199" />
+2. Vous allez ensuite vous diriger vers la première fonction qui se nomme BDUtilisateurParSonNom
 
+Voici la fonction présentement BDUtilisateurParSonNom :
+<img width="932" height="352" alt="Avant" src="https://github.com/user-attachments/assets/f80fc2b9-fe7c-4f1c-af09-ab275c649d29" />
 
+Vous allez devoir modifier cette fonction pour cela:
+<img width="733" height="361" alt="Après" src="https://github.com/user-attachments/assets/d3147fd7-7cae-4656-8dcd-f78ffc4303da" />
 
+3. Vous allez devoir 
 
 Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
