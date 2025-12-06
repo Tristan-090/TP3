@@ -52,16 +52,14 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 1. comme on peut voir le NAS semble avoir un algorithme plustot facile (Tenter de crée un nouveau compte avec un NAS 123456789 et vous allez voir que tous les nas se ressembler (bdfhjlnpr))
 <img width="103" height="172" alt="image" src="https://github.com/user-attachments/assets/091775b4-9e0d-474b-a494-8aa51b27c674" />
 
-3. Etape 2 + copie d'écran
-4. etc.
 
 ### Correctif implanté
 
 Court descriptif du correctif et lien vers le(s) commit(s).
 
-Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 Chiffrement
 <img width="955" height="510" alt="image" src="https://github.com/user-attachments/assets/16dbec3f-88b2-4525-8a80-85d49a60f42f" />
+
 Déchiffrement
 <img width="826" height="403" alt="image" src="https://github.com/user-attachments/assets/fdcce40b-c69c-43d5-821d-0e36732e4fa1" />
 
