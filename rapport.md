@@ -91,27 +91,27 @@ Description du correctif.
 
 ##### 2. Vous allez ensuite vous diriger vers la première fonction qui se nomme BDUtilisateurParSonNom
 
-###### Voici la fonction présentement BDUtilisateurParSonNom :
+##### Voici la fonction présentement BDUtilisateurParSonNom :
 <img width="932" height="352" alt="Avant" src="https://github.com/user-attachments/assets/f80fc2b9-fe7c-4f1c-af09-ab275c649d29" />
 
-###### Vous allez devoir modifier cette fonction pour cela:
+##### Vous allez devoir modifier cette fonction pour cela:
 <img width="733" height="361" alt="Après" src="https://github.com/user-attachments/assets/d3147fd7-7cae-4656-8dcd-f78ffc4303da" />
 
 ##### 3. Vous allez devoir vous diriger maintenant vers la fonction qui se nomme BDRevenusPour
 
-###### Voici la fonction présentement BDRevenusPour :
+##### Voici la fonction présentement BDRevenusPour :
 <img width="911" height="344" alt="Avant" src="https://github.com/user-attachments/assets/17ec6d8d-0ddf-4556-802e-2f0464471483" />
 
-###### Vous allez devoir modifier cette fonction pour cela:
+##### Vous allez devoir modifier cette fonction pour cela:
 <img width="749" height="348" alt="Après" src="https://github.com/user-attachments/assets/f13549db-272d-4e80-a1b1-31d3862a5d3b" />
 
 
 ##### 4. Vous allez ensuite vous diriger vers la première fonction qui se nomme BDCreerUtilisateur
 
-###### Voici la fonction présentement BDCreerUtilisateur :
+##### Voici la fonction présentement BDCreerUtilisateur :
 <img width="776" height="211" alt="Avant" src="https://github.com/user-attachments/assets/54cea5f3-0557-40ae-8c46-a98dd5d707c3" />
 
-###### Vous allez devoir modifier cette fonction pour cela:
+##### Vous allez devoir modifier cette fonction pour cela:
 <img width="940" height="223" alt="Après" src="https://github.com/user-attachments/assets/b2362b59-78f7-4aba-a481-d5d63a7f84c0" />
 
 ##### 5. Nous allons maintenant tester que l'attaque ne fonctionne plus
