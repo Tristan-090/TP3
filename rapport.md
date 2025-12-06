@@ -84,8 +84,6 @@ Déchiffrement
 <img width="627" height="321" alt="image" src="https://github.com/user-attachments/assets/2db50329-9dcd-43c2-8333-5a137a4e4a2f" />
 
 
-6. Etape 2 + copie d'écran
-7. etc.
 
 ### Correctif implanté
 
