@@ -48,7 +48,7 @@ Preuve que l'attaque ne fonctionne plus avec étapes + copie d'écran
 
 ## Attaque 2: BD fuitée et encryption
 
-##### 1. comme on peut voir le NAS semble avoir un algorithme plustot facile (Tenter de crée un nouveau compte avec un NAS 123456789 et vous allez voir que tous les nas se ressembler (bdfhjlnpr))
+##### 1. comme on peut voir le NAS semble avoir un algorithme plustot facile (Tenter de crée un nouveau compte avec un NAS 123456789 et vous allez voir que tous les nas se ressemble (bdfhjlnpr))
 <img width="103" height="172" alt="image" src="https://github.com/user-attachments/assets/091775b4-9e0d-474b-a494-8aa51b27c674" />
 
 <img width="727" height="180" alt="image" src="https://github.com/user-attachments/assets/8ee92999-daa7-4b21-862f-c6d3df3b0ee8" />
